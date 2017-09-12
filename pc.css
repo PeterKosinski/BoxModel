@@ -1,0 +1,56 @@
+	.box {
+		background-color: gray;
+		color: white;
+	}
+
+	.saleImage {
+		position: absolute;
+		top: 10px;
+		left: 770px;
+	
+
+	}
+
+	#header {
+		text-align: center;
+		width: 960px;
+		height: 100px;
+	}
+	
+		#footer {
+		text-align: center;
+		width: 960px;
+		height: 100px;
+		position: fixed;
+		bottom: 0;
+		z-index: 100;
+		Margin-top: 200px;
+		
+	}
+	
+	#backtotop {
+		text-align: left;
+		font-size: 14px;
+		font-style: italic;
+	}
+	
+
+	h1 {
+		padding-top: 20px;
+	}
+	
+	#body1 {
+		display: inline-block;
+		width: 450px;
+		margin: 10px;
+		padding-bottom: 100px;
+	}
+	
+	#body2 {
+		display: inline-block;
+		width: 450px;
+		margin: 10px;
+	    padding-bottom: 100px;
+
+	
+	}
